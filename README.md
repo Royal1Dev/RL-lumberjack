@@ -90,5 +90,5 @@ Change LegacyFuel to whatever fuel system in **RL-lumberjack/client/main.lua Lin
 ## Discord
 - [Join Discord](https://discord.gg/ZWSFvP9kjX)
 
-## Support
-- [Ko-fi Link](https://ko-fi.com/trclassic)
+## RolePlay
+- [RolePlay Link](https://discord.gg/hzJzkse6ph)
